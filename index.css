@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.navbar-expand-lg{
+    text-decoration-color: springgreen;
+    color: springgreen;
+    background-color: rgb(64, 226, 43);
+}
+.navbar{
+    text-decoration-color: springgreen;
+    color: springgreen;
+    background-color: rgb(64, 226, 43);
+}
+.collapse{
+    text-decoration-color: springgreen;
+    color: springgreen;
+    background-color: rgb(29, 3, 3);
+}
+.navbar-brand{
+    text-decoration-color: springgreen;
+    color: springgreen;
+}
+.nav-link{
+    text-decoration-color: springgreen;
+    color: springgreen;
+}
+.container{
+     box-shadow: 10px 10px 25px 18px rgb(234, 227, 18);
+    /* padding-top: 10%; */
+    margin-top: 12.5%;
+    margin-bottom: 25%;
+    padding-bottom: 2%;
+    background-color: aqua;
+    height: max-content;
+}
+.big_container{
+    padding-top: 4%;
+    height: fit-content;
+    background-color: black;
+}
+.upper{
+    margin-top: 2%;
+    margin-bottom: 1%;
+    color: rgb(208, 0, 0);
+}
+.upper2{
+    color: rgb(208, 0, 0);
+    margin-bottom: 1%;
+}
+.inside{
+    margin-top: 1%;
+    padding-bottom: 1%;
+    background-color: rgb(14, 3, 48);
+    color: rgb(105, 255, 18);
+    text-align: center;
+    justify-content: center;
+}
